@@ -104,7 +104,7 @@ function Sidebar({ initialSelectedIcon }) {
         <div className={style.profileLeft}>
           <img
             src={currentUser.profileImage}
-            alt='profile'
+            alt='NFT img'
             className={
               currentUser.isProfileImageNft
                 ? `${style.profileImage} smallHex`
