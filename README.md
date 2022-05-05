@@ -1,4 +1,4 @@
-# twitter-web3
+## twitter-web3
 
  A twitter Blockchain Web 3.0 App made with Solidity, Next JS, Sanity.io, Tailwind CSS, and  deployed with Vercel 🔥
  A twitter decentralized application (dapp) where users can upload posts to the __network__ as well as mint their own profile image as __NFT__.
