@@ -1,6 +1,6 @@
 ## twitter-web3
 
- <img src="frontend/src/" alt="frontend" title="Optional title">
+ <img src="/client/assets/twitter-profile.png" alt="frontend" title="Optional title">
 
  A twitter decentralized application (dapp) where users can upload posts to the __network__ as well as mint their own profile image as __NFT__.
  
