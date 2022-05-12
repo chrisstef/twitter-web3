@@ -10,7 +10,7 @@
 
   - Building a Web 3.0 Application with __Next JS__.
 
-  - Auditing our smart contract using __Solidity__.
+  - Creating and auditing our smart contract using __Solidity__.
 
   - Styling our app using __Tailwind CSS__.
 
