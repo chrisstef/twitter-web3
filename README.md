@@ -12,11 +12,11 @@
 
   - Creating, auditing and deploying our smart contract using __Solidity__.
 
-  - Styling our app using __Tailwind CSS__.
+  - Styling our app with __Tailwind CSS__.
 
   - Adding __Web 3.0__ authentication using __MetaMask__.
 
-  - Storing the tweets and users in __Sanity.io__.
+  - Storing the tweets in __Sanity.io__.
 
   - __Mint__ our own __NFT profile picture__ and store it on __Pinata__.
 
